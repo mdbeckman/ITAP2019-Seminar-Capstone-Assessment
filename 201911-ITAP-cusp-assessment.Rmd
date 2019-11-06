@@ -1,0 +1,285 @@
+---
+title: "Novel assessment tools for improving learning: Early lessons from statistics"
+author: |
+  | Matthew Beckman
+  | Penn State University
+date: |
+  | ITAP Seminar
+  | 
+  | November 8, 2019
+  
+output:
+  beamer_presentation: 
+    colortheme: seagull
+    theme: Pittsburgh
+  slidy_presentation: 
+    fig_width: 8
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(kableExtra)
+
+```
+
+# Collaborators 
+
+- Matt Beckman (Penn State)
+- Beth Chance (Cal Poly--San Luis Obispo)
+- Kirsten Eilertson (Penn State)
+- Jennifer Kaplan (Georgia)
+- Kari Lock Morgan (Penn State)
+- Paul Roback (Saint Olaf College)
+
+&nbsp;
+
+*Funding: Penn State Center of Excellence in Science Education*
+
+# Assessment Outline  
+
+- **Goal: Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)**
+    - snapshot of student learning outcomes  
+    - facilitate cohort comparisons for program evaluation 
+    - comprehensive scope
+- Constraints
+    - closely aligned to (2014) ASA Curriculum Guidelines[^1]
+    - ease of use across institutions, instructors, years 
+- Outcomes
+    - two capstone assessment tools (i.e., test & survey)
+    - multi-year pilot
+    - good psychometric quality
+
+[^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
+
+
+# (2014) ASA Guidelines for Undergraduate Programs in Statistical Sciences
+
+![](ASA Guidelines.png){ width=95% }
+
+
+# Comprehensive Undergraduate Statistics Program (CUSP) Assessment Strategy
+
+- [Test Blueprint (Link)](https://bit.ly/2lGxurK)
+- 95 competencies cited in 2014 ASA Guidelines  
+- single assessment tool likely not sufficient
+
+
+| # Competencies | ASA Guidelines Topic | 
+|:--------------:|:-----------|
+| 37 |  Statistical Methods & Theory |
+| 16 |  Data Wrangling, Computing, & Data Science |
+| 11 |  Mathematical Foundations |
+| 18 |  Statistical Practice |
+| 9  | Problem Solving |
+| 4  | Discipline-Specific Knowledge |
+
+# Comprehensive Undergraduate Statistics Program (CUSP) Assessments
+
+- Indirect assessment--CUSP Survey
+    - inventory of all 95 competancies cited in ASA Guidelines  
+    - survey data self-reported by students
+    - approx. 10-15 minutes duration
+    - several cohorts from single institution 
+- Direct assessment--CUSP Test
+    - selected response test
+    - approx. 1 hour duration
+    - multiple institutions w. single cohort
+    - single institution w. multiple cohorts
+
+
+# Indirect assessment--CUSP Survey 
+
+- **Benefits**
+    - Easy implementation
+    - Can be administered multiple times if desired  
+    - No problem including topics we don't teach
+    - Includes demographics
+- **Risks/Issues**
+    - Reliability of self-reporting 
+    - Over/Underconfidence with content exposure
+- [Indirect Assessment (Survey Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
+
+
+### Excerpt
+
+![](cuspSurvey.png){ width=80% }
+
+# Example Use 
+
+- Indirect assessment tool (i.e., Survey) administered at key program milestones
+    - first-year seminar
+    - midpoint course(s)--if possible
+    - beginning & end of capstone course
+- informative for annual program evaluation data
+
+
+# Note to self
+
+> Dear Future Matt: 
+
+&nbsp;
+
+> This is a great place to pause for questions or comments from the group!
+
+&nbsp;
+
+> --Recent Self
+
+
+# Direct assessment--CUSP Test
+
+- Selected response assessment tool with broad coverage
+- 33 tasks; some with multiple parts
+    - 9 testlets  
+    - 24 conventional MC questions
+- several tasks/subtasks assess multiple competancies
+    - score adjustment for successive competancies (1, 1/2, 1/4, ...)
+    - 86 points possible
+- some tasks adpted from other instruments (with permission)
+    - 2 from the REGRESS assessment[^2] 
+    - 9 from the CAOS assessment[^3]
+
+[^2]: Enders, F. (2013). Do clinical and translational science graduate students understand linear regression? Development and early validation of the REGRESS quiz. *Clinical and Translational Science, 6*(6).  p. 444-451. 
+
+[^3]: delMas, R., Garfield, J., Ooms, A., Chance, B. (2007). Assessing students' conceptual understanding after a first course in statistics.  *Statistics Education Research Journal, 6*. p. 28-58.
+
+
+# CUSP Test 
+
+- [Instructor Preview (link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **preview is not for classroom use**
+    - password protected 
+
+### Excerpt (partial item)
+
+![](cuspTest.png){ width=80% }
+
+
+# CUSP Test
+
+- **Benefits**
+    - test statistical "reflexes" of students
+    - built-in "CAOS" subtest
+    - objective measure of student competancies
+        - for individual students
+        - for a cohort of students
+        - aggregate useful for program evaluation
+    - Easy implementation
+- **Risks/Issues**
+    - Variable use conditions may jeopardize comparisons
+    - Scope constrained by test fatigue
+    - Includes topics we don't necessarily teach
+    - Longer to implement 
+
+
+
+# Example Use Cases
+
+- Penn State
+    - Indirect assessment tool (i.e., Survey) administered pre & post (in addition to first-year students)
+    - Direct assessment tool (i.e., test) positioned as a midterm in the capstone course
+    - benchmarking student skills and competancies against ASA Guidelines
+    - allows several weeks to address areas of need prior to graduation
+    - useful for annual program evaluation data
+- Other Institutions
+    - no course credit
+    - homework, extra credit, etc
+    - typically open notes
+
+
+
+# Note to self
+
+> Dear Future Matt: 
+
+&nbsp;
+
+> Sorry to interrupt again--especially since it really wasn't even funny the first time--but I can't resist pointing out another great opportunity to pause for some discussion!
+
+&nbsp;
+
+> --Recent Self
+
+
+# Preliminary Item Functioning Analysis
+
+- Benchmarks for item statistics[^4]
+    - Unidimensionality assumed by common methods of assessment evaluation
+    - Cronbach alpha (reliability)
+    - descrimination > 0.15 preferred 
+    - 0.6 < proportion correct < 0.9
+- Results
+    - PCA evidence supports unidimensionality
+    - Cronbach alpha = 0.81
+    - 30/33 items with discrimination > 0.15
+    - 9/33 items in recommended difficulty range
+    - 21/33 items with > 50% correct
+    
+[^4]: Haladyna, T. M., & Rodriguez, M. C. (2013). *Developing and validating test items*. Routledge: New York.
+
+
+# Item discrimination
+
+- Item discrimination < 0.15
+    - (21% correct) Validity of models aligned to a study design
+    - (3.6% correct) Strategies to maximize likelihood
+    - (40% correct) CAOS task about CI interpretation
+- Best item discrimination
+    - (discrim = 0.59) Probability distributions task 
+    - (discrim = 0.50) Histograms & std deviation task
+    - (discrim = 0.46) OLS regression assumptions task
+
+
+![](Q20.png){ width=80% }
+
+
+# Future work
+
+### Shorter term goals
+
+- Streamline logistics for wider implementation 
+- Link CUSP Survey data to CUSP Test outcomes
+- Expand item bank
+
+### Longer term goals
+
+- Experimentation with short/long forms
+- Alternative or additional tools for more complete alignment to ASA Guidelines
+
+
+# Acknowledgments
+
+- Advisory input
+    - Nick Horton
+    - Allan Rossman
+- Pilot testers
+    - Heather Smith
+    - Andrew Schaffner
+    - Nicole Lazar
+    - Lynne Seymour
+    - Paul Roback
+    - Kirsten Eilertson
+    - Dave Hunter
+    - Christian Schmid
+    - Daisy Philtron
+
+
+# Discussion
+
+
+
+# Backup slides
+
+### CUSP Test blueprint alignment to ASA Guidelines
+
+![](CUSP_Weights.png){ width=95% }
+
+
+# Scree plot of CUSP test data
+
+![](Scree_Plot_Dimensionality.png){ width=70% }
+
+
+
