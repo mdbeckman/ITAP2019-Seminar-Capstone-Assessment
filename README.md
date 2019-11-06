@@ -22,7 +22,7 @@ This work introduces new assessment tools to measure student learning outcomes i
 
 
 
-![QR Code for presentation content](ITAP_QR.png)
+![QR Code for presentation content page](ITAP_QR.png)
 
 
 ## Contact
