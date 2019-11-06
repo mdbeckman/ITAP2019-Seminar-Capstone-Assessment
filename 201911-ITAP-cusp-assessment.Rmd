@@ -29,7 +29,7 @@ library(kableExtra)
 - Matt Beckman (Penn State)
 - Beth Chance (Cal Poly--San Luis Obispo)
 - Kirsten Eilertson (Penn State)
-- Jennifer Kaplan (Georgia)
+- Jennifer Kaplan (Univ. Georgia)
 - Kari Lock Morgan (Penn State)
 - Paul Roback (Saint Olaf College)
 
@@ -239,6 +239,7 @@ library(kableExtra)
 
 ### Shorter term goals
 
+- Post-graduation follow-up for validation evidence
 - Streamline logistics for wider implementation 
 - Link CUSP Survey data to CUSP Test outcomes
 - Expand item bank
