@@ -4,11 +4,11 @@
 
 *November 8, 2019*
 
-### Abstract
+## Abstract
 
 This work introduces new assessment tools to measure student learning outcomes in undergraduate statistics programs using competencies recommended by a national organization, the American Statistical Association. These assessment tools seek to (1) measure student learning outcomes with respect to program objectives; (2) discover whether students are gaining additional relevant competencies not explicitly included in the program/major through extracurricular experiences; (3) facilitate comparisons across years and institutions to benefit continuous improvement of the program/major. I will present results from piloting with Senior/Capstone undergraduate statistics students at four different institutions around the US. I will conclude by sharing goals and challenges for future work and facilitate a conversation about how this approach can be adapted to other disciplines.
 
-### Resources
+## Resources
 
 
 - [Presentation Slides (PDF)](201911-ITAP-cusp-assessment.pdf)
@@ -25,7 +25,7 @@ This work introduces new assessment tools to measure student learning outcomes i
 ![QR Code for presentation content](ITAP_QR.png)
 
 
-### Contact
+## Contact
 
 Matthew Beckman  
 Department of Statistics  
