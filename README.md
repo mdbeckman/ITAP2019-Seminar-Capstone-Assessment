@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 2019 ITAP Series
 
-You can use the [editor on GitHub](https://github.com/mdbeckman/ITAP2019-Seminar-Capstone-Assessment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Novel assessment tools for improving learning: Early lessons from statistics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*November 8, 2019*
 
-### Markdown
+### Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This work introduces new assessment tools to measure student learning outcomes in undergraduate statistics programs using competencies recommended by a national organization, the American Statistical Association. These assessment tools seek to (1) measure student learning outcomes with respect to program objectives; (2) discover whether students are gaining additional relevant competencies not explicitly included in the program/major through extracurricular experiences; (3) facilitate comparisons across years and institutions to benefit continuous improvement of the program/major. I will present results from piloting with Senior/Capstone undergraduate statistics students at four different institutions around the US. I will conclude by sharing goals and challenges for future work and facilitate a conversation about how this approach can be adapted to other disciplines.
 
-```markdown
-Syntax highlighted code block
+### Resources
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- [Presentation Slides (PDF)](201911-ITAP-cusp-assessment.pdf)
+- [Test Blueprint (Link)](https://bit.ly/2lGxurK)
+- [Example of Student Summary Card (PDF)](CUSP_Test_Summary_STUDENT DEMO.pdf)
+- [Indirect Assessment (Survey Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
+- [Direct Assessment Instructor Preview (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **instructor preview is not for classroom use**
+    - email to request access password for instructor preview
+    - email to arrange dedicated link prior to classroom use
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![QR Code for presentation content](ITAP_QR.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdbeckman/ITAP2019-Seminar-Capstone-Assessment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Matthew Beckman  
+Department of Statistics  
+Penn State University  
+University Park, PA 16802  
 
-### Support or Contact
+email: mdb268 [at] psu [dot] edu  
+website: <https://mdbeckman.github.io/>  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
