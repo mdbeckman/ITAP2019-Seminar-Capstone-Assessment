@@ -40,15 +40,15 @@ library(kableExtra)
 # Assessment Outline  
 
 - **Goal: Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)**
-    - snapshot of student learning outcomes  
-    - facilitate cohort comparisons for program evaluation 
+    - snapshot of learning outcomes  
+    - cohort comparisons  
     - comprehensive scope
 - Constraints
-    - closely aligned to (2014) ASA Curriculum Guidelines[^1]
-    - ease of use across institutions, instructors, years 
-- Outcomes
-    - two capstone assessment tools (i.e., test & survey)
-    - multi-year pilot
+    - faithful to (2014) ASA Curriculum Guidelines[^1]
+    - portable across institutions, instructors, years 
+- Status
+    - two capstone assessment tools (i.e., survey & test)
+    - multi-year pilot data
     - good psychometric quality
 
 [^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
@@ -65,7 +65,6 @@ library(kableExtra)
 - 95 competencies cited in 2014 ASA Guidelines  
 - single assessment tool likely not sufficient
 
-
 | # Competencies | ASA Guidelines Topic | 
 |:--------------:|:-----------|
 | 37 |  Statistical Methods & Theory |
@@ -75,13 +74,14 @@ library(kableExtra)
 | 9  | Problem Solving |
 | 4  | Discipline-Specific Knowledge |
 
+
 # Comprehensive Undergraduate Statistics Program (CUSP) Assessments
 
 - Indirect assessment--CUSP Survey
     - inventory of all 95 competancies cited in ASA Guidelines  
     - survey data self-reported by students
     - approx. 10-15 minutes duration
-    - several cohorts from single institution 
+    - single institution w. multiple cohorts
 - Direct assessment--CUSP Test
     - selected response test
     - approx. 1 hour duration
@@ -93,7 +93,7 @@ library(kableExtra)
 
 - **Benefits**
     - Easy implementation
-    - Can be administered multiple times if desired  
+    - Can administer multiple times (beginning/middle/end) during program  
     - No problem including topics we don't teach
     - Includes demographics
 - **Risks/Issues**
@@ -115,17 +115,11 @@ library(kableExtra)
 - informative for annual program evaluation data
 
 
-# Note to self
+# Pause for questions/discussion
 
-> Dear Future Matt: 
-
-&nbsp;
-
-> This is a great place to pause for questions or comments from the group!
-
-&nbsp;
-
-> --Recent Self
+- *Indirect assessment (CUSP survey)*
+- **Next:** Direct assessment (CUSP test) is next
+- Item analysis & future work
 
 
 # Direct assessment--CUSP Test
@@ -178,34 +172,27 @@ library(kableExtra)
 # Example Use Cases
 
 - Penn State
-    - Indirect assessment tool (i.e., Survey) administered pre & post (in addition to first-year students)
-    - Direct assessment tool (i.e., test) positioned as a midterm in the capstone course
+    - Indirect assessment tool (i.e., survey) administered multiple times
+    - Direct assessment tool (i.e., test) as midterm in capstone course (STAT 470W)
     - benchmarking student skills and competancies against ASA Guidelines
-    - allows several weeks to address areas of need prior to graduation
-    - useful for annual program evaluation data
+    - allows several weeks to prioritize cohort needs before graduation
+    - useful for program feedback & annual evaluation data
 - Other Institutions
     - no course credit
     - homework, extra credit, etc
-    - typically open notes
+    - resource constraints (or not)
 
 
+# Pause for questions/discussion
 
-# Note to self
-
-> Dear Future Matt: 
-
-&nbsp;
-
-> Sorry to interrupt again--especially since it really wasn't even funny the first time--but I can't resist pointing out another great opportunity to pause for some discussion!
-
-&nbsp;
-
-> --Recent Self
+- *Indirect assessment (CUSP survey)*
+- *Direct assessment (CUSP test)*
+- **Next:** Item analysis & future work
 
 
 # Preliminary Item Functioning Analysis
 
-- Benchmarks for item statistics[^4]
+- Heuristics[^4]
     - Unidimensionality assumed by common methods of assessment evaluation
     - Cronbach alpha (reliability)
     - descrimination > 0.15 preferred 
@@ -267,8 +254,9 @@ library(kableExtra)
     - Daisy Philtron
 
 
-# Discussion
+# https://bit.ly/2Now1Sn
 
+\titlepage
 
 
 # Backup slides
