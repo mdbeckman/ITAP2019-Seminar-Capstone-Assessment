@@ -14,9 +14,9 @@ This work introduces new assessment tools to measure student learning outcomes i
 - [Presentation Slides (PDF)](201911-ITAP-cusp-assessment.pdf)
 - [Test Blueprint (Link)](https://bit.ly/2lGxurK)
 - [Example of Student Summary Card (PDF)](CUSP_Test_Summary_STUDENT DEMO.pdf)
-- [Indirect Assessment (Survey Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
-- [Direct Assessment Instructor Preview (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
-    - **instructor preview is not for classroom use**
+- [Indirect Assessment--CUSP Survey (Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
+- [Direct Assessment--CUSP Test Instructor Preview (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **Instructor preview is not for classroom use**
     - email to request access password for instructor preview
     - email to arrange dedicated link prior to classroom use
 
